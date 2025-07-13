@@ -9,6 +9,10 @@
 - Liste as principais funcionalidades do projeto.
 - Destaque o que é inovador ou diferencial.
 
+## Resultados e Conclusões
+
+(Quando conter no projeto. Geralmente utilizado para projetos de datascience)
+
 ## Tecnologias Utilizadas
 
 - Liste as principais tecnologias, frameworks e bibliotecas.
